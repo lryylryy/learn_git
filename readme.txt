@@ -3,3 +3,4 @@ Git Is free software.
 another line inserted.
 another line
 I created a new branch named dev! amazing.
+test --no-ff option
