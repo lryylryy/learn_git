@@ -5,3 +5,4 @@ another line
 I created a new branch named dev! amazing.
 test --no-ff option
 test stash
+remote conflict in 2
