@@ -6,3 +6,4 @@ I created a new branch named dev! amazing.
 test --no-ff option
 test stash
 remote conflict in 1 and 2 merged
+test multi merge
